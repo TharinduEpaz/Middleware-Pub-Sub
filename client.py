@@ -2,7 +2,6 @@ import socket
 import sys
 
 PORT = 5050
-HEADER = 64
 SERVER = '192.168.8.205'
 ADDR = (SERVER, PORT)
 FORMAT = "utf-8"
